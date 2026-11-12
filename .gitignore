@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ARTEMIS TLI
+artemis
+# archivos generados por el programa (opcion 7)
+*.csv
