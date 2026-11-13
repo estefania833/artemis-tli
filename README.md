@@ -4,7 +4,7 @@ simulador por consola en C - Mision Artemis, Problema 3: Inyeccion Translunar (T
 ## INTEGRANTES
 * Gimenez, Maria Sasha Fiona
 * Leguiza, Julia Estefania
-* Perez Piñedo, Tomas
+* Perez Piñero, Tomas
 * Spipp, Matias Hernan
 
 ### Estructura del proyecto
