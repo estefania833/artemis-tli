@@ -17,3 +17,6 @@ simulador por consola en C - Mision Artemis, Problema 3: Inyeccion Translunar (T
 * `Makefile`: Automatización de compilación.
 
 ## Compilación y ejecución
+Para compilar el proyecto desde la terminal:
+gcc -Wall -Wextra -std=c99 -pedantic -O2 -o artemis main.c artemis.c fisica.c validaciones.c reportes.c escenarios.c archivos.c -lm
+./artemis
