@@ -26,7 +26,7 @@ Para compilar el proyecto desde la terminal:
 * gcc -Wall -Wextra -std=c99 -pedantic -O2 -o artemis main.c artemis.c fisica.c validaciones.c reportes.c escenarios.c archivos.c -lm
 ./artemis
 
-###### Registro de Uso de Inteligencia Artificial
+##### Registro de Uso de Inteligencia Artificial
 En cumplimiento con las pautas de la cátedra, se detalla el uso de herramientas de IA durante el desarrollo del proyecto:
 
 * **Herramienta utilizada:** Gemini (Google).
